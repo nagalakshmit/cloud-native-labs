@@ -18,7 +18,8 @@ import rx.Observable;
 import rx.Single;
 import java.util.Date;
 import java.sql.Timestamp;
-#
+
+
 public class GatewayVerticle extends AbstractVerticle {
     private static final Logger LOG = LoggerFactory.getLogger(GatewayVerticle.class);
 
